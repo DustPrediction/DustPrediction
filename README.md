@@ -1,5 +1,7 @@
-# DustPrediction
-[데이터마이닝] 아동 보육시설 실외 미세먼지 분석 및 예측 모델 구축
+# 0. DustPrediction
+### [데이터마이닝] 아동 보육시설 실외 미세먼지 분석 및 예측 모델 구축
+![image](https://github.com/user-attachments/assets/5a6d949f-68d7-4f13-9246-3f8a775d05f6)
+
 
 # 1. Member
 
