@@ -7,11 +7,11 @@
 
 <table width="50%" align="center">
     <tr>
-        <td align="center"><b><a href="https://github.com/nyun-nye">박성훈</a></b></td>
-        <td align="center"><b><a href="https://github.com/nyun-nye">박세웅</a></b></td>
+        <td align="center"><b><a href="https://github.com/parkseonghun598">박성훈</a></b></td>
+        <td align="center"><b><a href="https://github.com/hardwoong">박세웅</a></b></td>
         <td align="center"><b><a href="https://github.com/nyun-nye">윤예진</a></b></td>
-        <td align="center"><b><a href="https://github.com/nyun-nye">이재원</a></b></td>
-        <td align="center"><b><a href="https://github.com/nyun-nye">정종진</a></b></td>
+        <td align="center"><b><a href="https://github.com/jwon0523">이재원</a></b></td>
+        <td align="center"><b><a href="https://github.com/ThreeeJ">정종진</a></b></td>
     </tr>
     <tr>
         <td align="center"><img src="https://github.com/user-attachments/assets/89488c31-8e6c-45b3-b6e0-90c65fc72260"></td>
