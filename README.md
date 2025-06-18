@@ -49,13 +49,26 @@
 1. 미세먼지 데이터셋 <br>
   [AQI(Air Quality Index)](https://aqicn.org/city/korea/seoul/gangdong-gu/kr/) 데이터를 사용하여 각 구별 **미세먼지** 데이터로 활용
 
-
 Feature | Type | Description
 ---|---|---
 
+![image](https://github.com/user-attachments/assets/4d537c3f-a90e-41ca-b139-7e1a40d30d85)
+<table width="50%" align="center">
+  <tr>
+        <td align="center"><img src="https://github.com/user-attachments/assets/861aedcd-0245-4ebc-8785-cde471c2bbf2"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/cfd1129a-37e2-43a1-843c-6d575335cda2"></td>
+  </tr>
+  <tr>
+        <td align="center"><img src="https://github.com/user-attachments/assets/153f4446-e8f7-481e-be07-a05a8cdec6ea"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/365ed73c-a41b-4a5d-8a04-d736c7a5e850"></td>
+  </tr>
+</table>
 
+# 5. Environment & Library
 
-# 5. How to Run
+![image](https://github.com/user-attachments/assets/105735c7-75cb-44a5-a39b-8b4e5ec23bb3)
+Python 3.10.8
+![image](https://github.com/user-attachments/assets/3f83d033-7020-4823-83f2-1c0e969da79d)
 
 
 # 6. Experiments
