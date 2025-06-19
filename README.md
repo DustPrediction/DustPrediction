@@ -331,14 +331,11 @@ Jupyter 노트북들의 모음입니다.
 <details>
     <summary>scripts</summary>
     <code>📦scripts
- ┣ 📜__init__.py
- ┣ 📜air_preprocess_utils.py
- ┣ 📜daycarecenter_process_utils.py
- ┣ 📜merge_utils.py
- ┣ 📜model_utils.py
- ┣ 📜utils.py
- ┣ 📜visualization.py
- ┗ 📜weather_process_utils.py</code>
+ ┣ 📜__init__.py # 패키지 초기화 파일입니다.
+ ┣ 📜air_preprocess_utils.py # 대기질 데이터 전처리를 위한 함수 모음 파일입니다.
+ ┣ 📜model_utils.py # 모델링 관련 함수 모음 파일입니다.
+ ┣ 📜utils.py # 다양한 데이터 처리 보조 함수 모음 파일입니다.
+ ┗ 📜visualization.py # 데이터 및 모델 결과 시각화 함수 모음 파일입니다.</code>
 </details>
 
 ### 📜 .gitignore
@@ -346,8 +343,19 @@ Jupyter 노트북들의 모음입니다.
 ### 📜 README.md
 깃허브 리드미를 작성한 파일입니다.
 
+# 8. How To Run
+1. 전처리 실행
+    - air_quality_preprocessing.ipynb
+    - daily_weather_preprocessing.ipynb
+    - daycare_center_preprocessing.ipynb
+2. 전처리된 데이터 병합
+    - merge_processed_data.ipynb
+3. 모델링에 필요한 인사이트 도출
+    - eda.ipynb
+4. 모델링 진행
+    - modeling.ipynb
 
-# 8. ETC
+# 9. ETC
 - 사용 데이터 및 전처리 데이터는 <a href="https://drive.google.com/drive/folders/11UUVsForXUDN1AQIqC7qwxeWV7kPopZw?usp=drive_link">구글 드라이브</a>에서도 확인해보실 수 있습니다.
 - 자세한 내용은 아래 제안서 파일과 보고서 파일에서 확인해보실 수 있습니다.
     - <a href="https://drive.google.com/file/d/1Xe237fn7jriIk3VKHtbbvxHct46q4dvc/view?usp=sharing">제안서 pdf 파일</a>
