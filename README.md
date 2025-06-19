@@ -347,4 +347,4 @@ Jupyter 노트북들의 모음입니다.
 # 8. ETC
 - 사용 데이터 및 전처리 데이터는 <a href="https://drive.google.com/drive/folders/11UUVsForXUDN1AQIqC7qwxeWV7kPopZw?usp=drive_link">구글 드라이브</a>에서도 확인해보실 수 있습니다.
 - <a href="https://drive.google.com/file/d/1Xe237fn7jriIk3VKHtbbvxHct46q4dvc/view?usp=sharing">제안서 pdf 파일</a>
-- <a href="https://drive.google.com/file/d/1D7Oe0tRYXH8iVCopUBHq8e1GSq1Xx_9j/view?usp=sharing">보고서 pdf 파일</a>
+- <a href="https://drive.google.com/file/d/16etU0TZfRXUj8nBytxosYzTBp4NRI0u1/view?usp=sharing">보고서 pdf 파일</a>
