@@ -111,14 +111,16 @@
   </li>
   <li>
     <details>
-      <summary>raw</summary>
+      <summary>raw <code># 전처리되기 이전의 데이터를 저장하는 폴더입니다.</code>
+      </summary>
       <ul><li>
           <details>
-              <summary>air_quality</summary>
+              <summary>air_quality <code># 서울시 구 단위별 대기질 데이터를 저장하는 폴더입니다.</code>
+              </summary>
               <ul>
                   <li><details>
                       <summary>main</summary>
-                      <code>📦main
+                      <code>📦main # AQI에서 가져온 서울시 25개 구의 대기질 데이터를 저장하는 폴더입니다.
  ┣ 📜강남구.csv
  ┣ 📜강동구.csv
  ┣ 📜강북구.csv
@@ -146,14 +148,12 @@
  ┗ 📜중랑구.csv</code>
                   </details></li>
               <li><details>
-              <summary>sub</summary>
+              <summary>sub <code># main 폴더의 결측치를 채우기 위해 에어코리아에서 가져온 서울시 대기질 데이터를 저장하는 폴더입니다.</code>
+              </summary>
                   <ul>
                       <li><details>
                           <summary>2018</summary>
                           <code>📦2018
- ┣ 📜2018년 10월.xlsx
- ┣ 📜2018년 11월.xlsx
- ┣ 📜2018년 12월.xlsx
  ┣ 📜2018년 1월.xlsx
  ┣ 📜2018년 2월.xlsx
  ┣ 📜2018년 3월.xlsx
@@ -162,7 +162,10 @@
  ┣ 📜2018년 6월.xlsx
  ┣ 📜2018년 7월.xlsx
  ┣ 📜2018년 8월.xlsx
- ┗ 📜2018년 9월.xlsx</code>
+ ┣ 📜2018년 9월.xlsx
+ ┣ 📜2018년 10월.xlsx
+ ┣ 📜2018년 11월.xlsx
+ ┗ 📜2018년 12월.xlsx</code>
                       </details></li>
                       <li><details>
                           <summary>2019</summary>
@@ -183,9 +186,6 @@
                       <li><details>
                           <summary>2020</summary>
                           <code>📦2020
- ┣ 📜2020년 10월.xlsx
- ┣ 📜2020년 11월.xlsx
- ┣ 📜2020년 12월.xlsx
  ┣ 📜2020년 1월.xlsx
  ┣ 📜2020년 2월.xlsx
  ┣ 📜2020년 3월.xlsx
@@ -194,14 +194,14 @@
  ┣ 📜2020년 6월.xlsx
  ┣ 📜2020년 7월.xlsx
  ┣ 📜2020년 8월.xlsx
- ┗ 📜2020년 9월.xlsx</code>
+ ┣ 📜2020년 9월.xlsx
+ ┣ 📜2020년 10월.xlsx
+ ┣ 📜2020년 11월.xlsx
+ ┗ 📜2020년 12월.xlsx</code>
                       </details></li>
                       <li><details>
                           <summary>2021</summary>
                           <code>📦2021
- ┣ 📜2021년 10월.xlsx
- ┣ 📜2021년 11월.xlsx
- ┣ 📜2021년 12월.xlsx
  ┣ 📜2021년 1월.xlsx
  ┣ 📜2021년 2월.xlsx
  ┣ 📜2021년 3월.xlsx
@@ -210,14 +210,14 @@
  ┣ 📜2021년 6월.xlsx
  ┣ 📜2021년 7월.xlsx
  ┣ 📜2021년 8월.xlsx
- ┗ 📜2021년 9월.xlsx</code>
+ ┣ 📜2021년 9월.xlsx
+ ┣ 📜2021년 10월.xlsx
+ ┣ 📜2021년 11월.xlsx
+ ┗ 📜2021년 12월.xlsx</code>
                       </details></li>
                       <li><details>
                           <summary>2022</summary>
                           <code>📦2022
- ┣ 📜2022년 10월.xlsx
- ┣ 📜2022년 11월.xlsx
- ┣ 📜2022년 12월.xlsx
  ┣ 📜2022년 1월.xlsx
  ┣ 📜2022년 2월.xlsx
  ┣ 📜2022년 3월.xlsx
@@ -226,14 +226,14 @@
  ┣ 📜2022년 6월.xlsx
  ┣ 📜2022년 7월.xlsx
  ┣ 📜2022년 8월.xlsx
- ┗ 📜2022년 9월.xlsx</code>
+ ┣ 📜2022년 9월.xlsx
+ ┣ 📜2022년 10월.xlsx
+ ┣ 📜2022년 11월.xlsx
+ ┗ 📜2022년 12월.xlsx</code>
                       </details></li>
                       <li><details>
                           <summary>2023</summary>
                           <code>📦2023
- ┣ 📜2023년 10월.xlsx
- ┣ 📜2023년 11월.xlsx
- ┣ 📜2023년 12월.xlsx
  ┣ 📜2023년 1월.xlsx
  ┣ 📜2023년 2월.xlsx
  ┣ 📜2023년 3월.xlsx
@@ -242,14 +242,14 @@
  ┣ 📜2023년 6월.xlsx
  ┣ 📜2023년 7월.xlsx
  ┣ 📜2023년 8월.xlsx
- ┗ 📜2023년 9월.xlsx</code>
+ ┣ 📜2023년 9월.xlsx
+ ┣ 📜2023년 10월.xlsx
+ ┣ 📜2023년 11월.xlsx
+ ┗ 📜2023년 12월.xlsx</code>
                       </details></li>
                       <li><details>
                           <summary>2024</summary>
                           <code>📦2024
- ┣ 📜2024년 10월.xlsx
- ┣ 📜2024년 11월.xlsx
- ┣ 📜2024년 12월.xlsx
  ┣ 📜2024년 1월.xlsx
  ┣ 📜2024년 2월.xlsx
  ┣ 📜2024년 3월.xlsx
@@ -258,7 +258,10 @@
  ┣ 📜2024년 6월.xlsx
  ┣ 📜2024년 7월.xlsx
  ┣ 📜2024년 8월.xlsx
- ┗ 📜2024년 9월.xlsx</code>
+ ┣ 📜2024년 9월.xlsx
+ ┣ 📜2024년 10월.xlsx
+ ┣ 📜2024년 11월.xlsx
+ ┗ 📜2024년 12월.xlsx</code>
                       </details></li>
                   </ul>
           </details></li>
@@ -268,7 +271,7 @@
         <ul><li>
           <details>
               <summary>daycarecenter</summary>
-              <code>📦daycarecenter
+              <code>📦daycarecenter # 서울시 구 단위 어린이집의 위도와 경도 데이터를 저장하는 폴더입니다.
  ┣ 📜daycarecenter_dobong.csv
  ┣ 📜daycarecenter_dongdaemun.csv
  ┣ 📜daycarecenter_dongjak.csv
@@ -297,13 +300,13 @@
           </details>
       </li></ul>
         <ul><li>
-          <code>📦monitoringStation
+          <code>📦monitoringStation # 서울시 미세먼지 측정소들의 위도와 경도 데이터를 저장하는 폴더입니다.
  ┗ 📜seoul_monitoring_stations.csv</code>
       </li></ul>
         <ul><li>
-          <code>📦weather
- ┣ 📜Jongno_daily_weather_2018_2024.csv
- ┗ 📜Seoul_daily_weather_2018_2024.csv</code>
+          <code>📦weather # 서울시 날씨 데이터를 저장하는 폴더입니다.
+ ┣ 📜Jongno_daily_weather_2018_2024.csv # 종로구 측정소의 결측치 이슈로 종로에 위치한 서울 측정소에서 가져온 종로구 날씨 데이터입니다.
+ ┗ 📜Seoul_daily_weather_2018_2024.csv # 18~24년도 서울시 날씨 데이터입니다.</code>
       </li></ul>
     </details>
   </li>
