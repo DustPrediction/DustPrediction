@@ -60,7 +60,7 @@
 
 # 5. Environment & Library
 
-![image](https://github.com/user-attachments/assets/81f27509-4316-4278-b631-800e085731f0)
+![image](https://github.com/user-attachments/assets/03ba86c0-ffe8-41df-930a-fcfd97f73dea)
 
 
 # 6. Experiments
