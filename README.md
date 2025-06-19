@@ -100,7 +100,7 @@
 </table>
 
 # 7. Files
-### data
+### 📦 data
 <details>
 <summary>data</summary>
 <ul>
@@ -309,7 +309,7 @@
 </ul>
 </details>
 
-### notebooks
+### 📦 notebooks
 <details>
     <summary>notebooks</summary>
     <code>📦notebooks
@@ -321,7 +321,7 @@
  ┗ 📜modeling.ipynb</code>
 </details>
 
-### scripts
+### 📦 scripts
 <details>
     <summary>scripts</summary>
     <code>📦scripts
@@ -335,8 +335,8 @@
  ┗ 📜weather_process_utils.py</code>
 </details>
 
-### .gitignore
-### README.md
+### 📜 .gitignore
+### 📜 README.md
 
 
 # 8. ETC
