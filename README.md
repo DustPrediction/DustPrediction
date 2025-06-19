@@ -60,10 +60,41 @@
 
 # 5. Environment & Library
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-Python 3.10.8
-
-![image](https://github.com/user-attachments/assets/3f83d033-7020-4823-83f2-1c0e969da79d)
+![image](https://github.com/user-attachments/assets/0f7bfa91-ab2d-427b-b1cb-9faae5d71072)
 
 
 # 6. Experiments
+
+<table width="50%" align="center">
+  <tr>
+        <td align="center"><img src="https://github.com/user-attachments/assets/942301dc-cb19-499f-9617-86fda518de55"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/ca785e2b-9941-437f-b297-ffd802e69c40"></td>
+  </tr>
+</table>
+
+<table width="50%" align="center">
+  <tr>
+        <td align="center"><img src="https://github.com/user-attachments/assets/c868bdaf-5d26-40fc-a678-d3b6c72cc4c2"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/d80fc774-cccb-48fa-bd0d-b3a2a7658c04"></td>
+  </tr>
+</table>
+
+<details>
+<summary>의사 결정 트리 성능 결함의 이유</summary>
+<div markdown="1">
+
+![image](https://github.com/user-attachments/assets/ff803172-0638-4382-837d-1c72c08488e5)
+
+</div>
+</details>
+
+<table width="50%" align="center">
+  <tr>
+        <td align="center"><img src="https://github.com/user-attachments/assets/13a52bab-cb0b-49b0-a9c4-010b7c0ee46b"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/889f6fda-40b0-48cf-9b47-2625de579136"></td>
+  </tr>
+  <tr>
+        <td align="center"><img src="https://github.com/user-attachments/assets/f9188004-3315-44ef-811c-26a2fb59378a"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/cba36455-5cfb-4a86-9f51-50afe2469abb"></td>
+  </tr>
+</table>
