@@ -104,4 +104,4 @@
 # 8. ETC
 - 깃허브 push 용량 문제로 사용 데이터 및 전처리 데이터는 <a href="https://drive.google.com/drive/folders/11UUVsForXUDN1AQIqC7qwxeWV7kPopZw?usp=drive_link">구글 드라이브</a>에서 따로 관리하였습니다.
 - <a href="https://drive.google.com/file/d/1Xe237fn7jriIk3VKHtbbvxHct46q4dvc/view?usp=sharing">제안서 pdf 파일</a>
-- 보고서 pdf 파일
+- <a href="https://drive.google.com/file/d/1D7Oe0tRYXH8iVCopUBHq8e1GSq1Xx_9j/view?usp=sharing">보고서 pdf 파일</a>
