@@ -101,11 +101,12 @@
 
 # 7. Files
 ### 📦 data
+데이터를 관리하는 폴더입니다.
 <details>
 <summary>data</summary>
 <ul>
   <li>
-    <code>📦processed
+    <code>📦processed # 전처리된 데이터를 저장하는 폴더입니다.
  ┗ 📜.gitkeep</code>
   </li>
   <li>
@@ -337,6 +338,7 @@
 
 ### 📜 .gitignore
 ### 📜 README.md
+리드
 
 
 # 8. ETC
