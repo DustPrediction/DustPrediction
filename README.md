@@ -100,8 +100,246 @@
 </table>
 
 # 7. Files
+### data
+<details>
+<summary>data</summary>
+<ul>
+  <li>
+    <code>📦processed
+ ┗ 📜.gitkeep</code>
+  </li>
+  <li>
+    <details>
+      <summary>raw</summary>
+      <ul><li>
+          <details>
+              <summary>air_quality</summary>
+              <ul>
+                  <li><details>
+                      <summary>main</summary>
+                      <code>📦main
+ ┣ 📜강남구.csv
+ ┣ 📜강동구.csv
+ ┣ 📜강북구.csv
+ ┣ 📜강서구.csv
+ ┣ 📜관악구.csv
+ ┣ 📜광진구.csv
+ ┣ 📜구로구.csv
+ ┣ 📜금천구.csv
+ ┣ 📜노원구.csv
+ ┣ 📜도봉구.csv
+ ┣ 📜동대문구.csv
+ ┣ 📜동작구.csv
+ ┣ 📜마포구.csv
+ ┣ 📜서대문구.csv
+ ┣ 📜서초구.csv
+ ┣ 📜성동구.csv
+ ┣ 📜성북구.csv
+ ┣ 📜송파구.csv
+ ┣ 📜양천구.csv
+ ┣ 📜영등포구.csv
+ ┣ 📜용산구.csv
+ ┣ 📜은평구.csv
+ ┣ 📜종로구.csv
+ ┣ 📜중구.csv
+ ┗ 📜중랑구.csv</code>
+                  </details></li>
+              <li><details>
+              <summary>sub</summary>
+                  <ul>
+                      <li><details>
+                          <summary>2018</summary>
+                          <code>📦2018
+ ┣ 📜2018년 10월.xlsx
+ ┣ 📜2018년 11월.xlsx
+ ┣ 📜2018년 12월.xlsx
+ ┣ 📜2018년 1월.xlsx
+ ┣ 📜2018년 2월.xlsx
+ ┣ 📜2018년 3월.xlsx
+ ┣ 📜2018년 4월.xlsx
+ ┣ 📜2018년 5월.xlsx
+ ┣ 📜2018년 6월.xlsx
+ ┣ 📜2018년 7월.xlsx
+ ┣ 📜2018년 8월.xlsx
+ ┗ 📜2018년 9월.xlsx</code>
+                      </details></li>
+                      <li><details>
+                          <summary>2019</summary>
+                          <code>📦2019
+ ┣ 📜2019년 01월.xlsx
+ ┣ 📜2019년 02월.xlsx
+ ┣ 📜2019년 03월.xlsx
+ ┣ 📜2019년 04월.xlsx
+ ┣ 📜2019년 05월.xlsx
+ ┣ 📜2019년 06월.xlsx
+ ┣ 📜2019년 07월.xlsx
+ ┣ 📜2019년 08월.xlsx
+ ┣ 📜2019년 09월.xlsx
+ ┣ 📜2019년 10월.xlsx
+ ┣ 📜2019년 11월.xlsx
+ ┗ 📜2019년 12월.xlsx</code>
+                      </details></li>
+                      <li><details>
+                          <summary>2020</summary>
+                          <code>📦2020
+ ┣ 📜2020년 10월.xlsx
+ ┣ 📜2020년 11월.xlsx
+ ┣ 📜2020년 12월.xlsx
+ ┣ 📜2020년 1월.xlsx
+ ┣ 📜2020년 2월.xlsx
+ ┣ 📜2020년 3월.xlsx
+ ┣ 📜2020년 4월.xlsx
+ ┣ 📜2020년 5월.xlsx
+ ┣ 📜2020년 6월.xlsx
+ ┣ 📜2020년 7월.xlsx
+ ┣ 📜2020년 8월.xlsx
+ ┗ 📜2020년 9월.xlsx</code>
+                      </details></li>
+                      <li><details>
+                          <summary>2021</summary>
+                          <code>📦2021
+ ┣ 📜2021년 10월.xlsx
+ ┣ 📜2021년 11월.xlsx
+ ┣ 📜2021년 12월.xlsx
+ ┣ 📜2021년 1월.xlsx
+ ┣ 📜2021년 2월.xlsx
+ ┣ 📜2021년 3월.xlsx
+ ┣ 📜2021년 4월.xlsx
+ ┣ 📜2021년 5월.xlsx
+ ┣ 📜2021년 6월.xlsx
+ ┣ 📜2021년 7월.xlsx
+ ┣ 📜2021년 8월.xlsx
+ ┗ 📜2021년 9월.xlsx</code>
+                      </details></li>
+                      <li><details>
+                          <summary>2022</summary>
+                          <code>📦2022
+ ┣ 📜2022년 10월.xlsx
+ ┣ 📜2022년 11월.xlsx
+ ┣ 📜2022년 12월.xlsx
+ ┣ 📜2022년 1월.xlsx
+ ┣ 📜2022년 2월.xlsx
+ ┣ 📜2022년 3월.xlsx
+ ┣ 📜2022년 4월.xlsx
+ ┣ 📜2022년 5월.xlsx
+ ┣ 📜2022년 6월.xlsx
+ ┣ 📜2022년 7월.xlsx
+ ┣ 📜2022년 8월.xlsx
+ ┗ 📜2022년 9월.xlsx</code>
+                      </details></li>
+                      <li><details>
+                          <summary>2023</summary>
+                          <code>📦2023
+ ┣ 📜2023년 10월.xlsx
+ ┣ 📜2023년 11월.xlsx
+ ┣ 📜2023년 12월.xlsx
+ ┣ 📜2023년 1월.xlsx
+ ┣ 📜2023년 2월.xlsx
+ ┣ 📜2023년 3월.xlsx
+ ┣ 📜2023년 4월.xlsx
+ ┣ 📜2023년 5월.xlsx
+ ┣ 📜2023년 6월.xlsx
+ ┣ 📜2023년 7월.xlsx
+ ┣ 📜2023년 8월.xlsx
+ ┗ 📜2023년 9월.xlsx</code>
+                      </details></li>
+                      <li><details>
+                          <summary>2024</summary>
+                          <code>📦2024
+ ┣ 📜2024년 10월.xlsx
+ ┣ 📜2024년 11월.xlsx
+ ┣ 📜2024년 12월.xlsx
+ ┣ 📜2024년 1월.xlsx
+ ┣ 📜2024년 2월.xlsx
+ ┣ 📜2024년 3월.xlsx
+ ┣ 📜2024년 4월.xlsx
+ ┣ 📜2024년 5월.xlsx
+ ┣ 📜2024년 6월.xlsx
+ ┣ 📜2024년 7월.xlsx
+ ┣ 📜2024년 8월.xlsx
+ ┗ 📜2024년 9월.xlsx</code>
+                      </details></li>
+                  </ul>
+          </details></li>
+              </ul>
+          </details>
+      </li></ul>
+        <ul><li>
+          <details>
+              <summary>daycarecenter</summary>
+              <code>📦daycarecenter
+ ┣ 📜daycarecenter_dobong.csv
+ ┣ 📜daycarecenter_dongdaemun.csv
+ ┣ 📜daycarecenter_dongjak.csv
+ ┣ 📜daycarecenter_eunpyeong.csv
+ ┣ 📜daycarecenter_gangbuk.csv
+ ┣ 📜daycarecenter_gangdong.csv
+ ┣ 📜daycarecenter_gangnam.csv
+ ┣ 📜daycarecenter_gangseo.csv
+ ┣ 📜daycarecenter_geumcheon.csv
+ ┣ 📜daycarecenter_guro.csv
+ ┣ 📜daycarecenter_gwanak.csv
+ ┣ 📜daycarecenter_gwangjin.csv
+ ┣ 📜daycarecenter_jongno.csv
+ ┣ 📜daycarecenter_jung.csv
+ ┣ 📜daycarecenter_jungnang.csv
+ ┣ 📜daycarecenter_mapo.csv
+ ┣ 📜daycarecenter_nowon.csv
+ ┣ 📜daycarecenter_seocho.csv
+ ┣ 📜daycarecenter_seodaemun.csv
+ ┣ 📜daycarecenter_seongbuk.csv
+ ┣ 📜daycarecenter_seongdong.csv
+ ┣ 📜daycarecenter_songpa.csv
+ ┣ 📜daycarecenter_yangcheon.csv
+ ┣ 📜daycarecenter_yeongdeungpo.csv
+ ┗ 📜daycarecenter_yongsan.csv</code>
+          </details>
+      </li></ul>
+        <ul><li>
+          <code>📦monitoringStation
+ ┗ 📜seoul_monitoring_stations.csv</code>
+      </li></ul>
+        <ul><li>
+          <code>📦weather
+ ┣ 📜Jongno_daily_weather_2018_2024.csv
+ ┗ 📜Seoul_daily_weather_2018_2024.csv</code>
+      </li></ul>
+    </details>
+  </li>
+</ul>
+</details>
+
+### notebooks
+<details>
+    <summary>notebooks</summary>
+    <code>📦notebooks
+ ┣ 📜air_quality_preprocessing.ipynb
+ ┣ 📜daily_weather_preprocessing.ipynb
+ ┣ 📜daycare_center_preprocessing.ipynb
+ ┣ 📜eda.ipynb
+ ┣ 📜merge_processed_data.ipynb
+ ┗ 📜modeling.ipynb</code>
+</details>
+
+### scripts
+<details>
+    <summary>scripts</summary>
+    <code>📦scripts
+ ┣ 📜__init__.py
+ ┣ 📜air_preprocess_utils.py
+ ┣ 📜daycarecenter_process_utils.py
+ ┣ 📜merge_utils.py
+ ┣ 📜model_utils.py
+ ┣ 📜utils.py
+ ┣ 📜visualization.py
+ ┗ 📜weather_process_utils.py</code>
+</details>
+
+### .gitignore
+### README.md
+
 
 # 8. ETC
-- 깃허브 push 용량 문제로 사용 데이터 및 전처리 데이터는 <a href="https://drive.google.com/drive/folders/11UUVsForXUDN1AQIqC7qwxeWV7kPopZw?usp=drive_link">구글 드라이브</a>에서 따로 관리하였습니다.
+- 사용 데이터 및 전처리 데이터는 <a href="https://drive.google.com/drive/folders/11UUVsForXUDN1AQIqC7qwxeWV7kPopZw?usp=drive_link">구글 드라이브</a>에서도 확인해보실 수 있습니다.
 - <a href="https://drive.google.com/file/d/1Xe237fn7jriIk3VKHtbbvxHct46q4dvc/view?usp=sharing">제안서 pdf 파일</a>
 - <a href="https://drive.google.com/file/d/1D7Oe0tRYXH8iVCopUBHq8e1GSq1Xx_9j/view?usp=sharing">보고서 pdf 파일</a>
