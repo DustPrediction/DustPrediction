@@ -46,15 +46,15 @@
 
 # 4. Data
 
-![image](https://github.com/user-attachments/assets/4d537c3f-a90e-41ca-b139-7e1a40d30d85)
+![image](https://github.com/user-attachments/assets/81e4845a-07c2-4279-9d2a-6f8a4610f231)
 <table width="50%" align="center">
   <tr>
-        <td align="center"><img src="https://github.com/user-attachments/assets/861aedcd-0245-4ebc-8785-cde471c2bbf2"></td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/cfd1129a-37e2-43a1-843c-6d575335cda2"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/9b4d9acd-e5a7-43cd-bf6e-e6cb6074bd33"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/25647fcb-d5cb-4a6f-b502-40d7cca3c5b8"></td>
   </tr>
   <tr>
-        <td align="center"><img src="https://github.com/user-attachments/assets/153f4446-e8f7-481e-be07-a05a8cdec6ea"></td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/365ed73c-a41b-4a5d-8a04-d736c7a5e850"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/2cc0e496-cafa-436c-9295-cf3a3e3ab9ba"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/862a10d8-8c16-48c9-9ba0-ef19b8c86d20"></td>
   </tr>
 </table>
 
