@@ -311,18 +311,20 @@
 </details>
 
 ### 📦 notebooks
+Jupyter 노트북들의 모음입니다.
 <details>
     <summary>notebooks</summary>
-    <code>📦notebooks
- ┣ 📜air_quality_preprocessing.ipynb
- ┣ 📜daily_weather_preprocessing.ipynb
- ┣ 📜daycare_center_preprocessing.ipynb
- ┣ 📜eda.ipynb
- ┣ 📜merge_processed_data.ipynb
- ┗ 📜modeling.ipynb</code>
+    <code>📦notebooks # Jupyter 노트북들의 모음입니다.
+ ┣ 📜air_quality_preprocessing.ipynb # 대기질 데이터를 전처리하는 파일입니다.
+ ┣ 📜daily_weather_preprocessing.ipynb # 기상 데이터를 전처리하는 파일입니다.
+ ┣ 📜daycare_center_preprocessing.ipynb # 어린이집 데이터를 전처리하는 파일입니다.
+ ┣ 📜eda.ipynb # 모델링에 필요한 인사이트를 도출하는 파일입니다.
+ ┣ 📜merge_processed_data.ipynb # 전처리된 데이터를 통합하는 파일입니다.
+ ┗ 📜modeling.ipynb # 모델링을 하는 파일입니다.</code> 
 </details>
 
 ### 📦 scripts
+사용되는 함수들을 모아놓은 폴더입니다.
 <details>
     <summary>scripts</summary>
     <code>📦scripts
@@ -337,8 +339,9 @@
 </details>
 
 ### 📜 .gitignore
+버전 관리에서 제외되는 설정을 작성한 파일입니다.
 ### 📜 README.md
-리드
+깃허브 리드미를 작성한 파일입니다.
 
 
 # 8. ETC
