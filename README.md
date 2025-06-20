@@ -322,6 +322,7 @@ Jupyter 노트북들의 모음입니다.
  ┣ 📜daily_weather_preprocessing.ipynb # 기상 데이터를 전처리하는 파일입니다.
  ┣ 📜daycare_center_preprocessing.ipynb # 어린이집 데이터를 전처리하는 파일입니다.
  ┣ 📜eda.ipynb # 모델링에 필요한 인사이트를 도출하는 파일입니다.
+ ┣ 📜environment_setup.ipynb # 실험 환경정보를 명시해둔 파일입니다.
  ┣ 📜merge_processed_data.ipynb # 전처리된 데이터를 통합하는 파일입니다.
  ┗ 📜modeling.ipynb # 모델링을 하는 파일입니다.</code> 
 </details>
@@ -344,15 +345,17 @@ Jupyter 노트북들의 모음입니다.
 깃허브 리드미를 작성한 파일입니다.
 
 # 8. How To Run
-1. 전처리 실행
+0. 환경 세팅
+   - environment_setup.ipynb
+2. 전처리 실행
     - air_quality_preprocessing.ipynb
     - daily_weather_preprocessing.ipynb
     - daycare_center_preprocessing.ipynb
-2. 전처리된 데이터 병합
+3. 전처리된 데이터 병합
     - merge_processed_data.ipynb
-3. 모델링에 필요한 인사이트 도출
+4. 모델링에 필요한 인사이트 도출
     - eda.ipynb
-4. 모델링 진행
+5. 모델링 진행
     - modeling.ipynb
 
 # 9. ETC
